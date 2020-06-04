@@ -52,8 +52,8 @@ class IpAddress {
 
     // Initialize return arguments for callback
     let firstIpAddress = {
-        ipv4: null;
-        ipv6: null;
+        ipv4: null,
+        ipv6: null
     };
     let callbackError = null;
 
